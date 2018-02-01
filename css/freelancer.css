@@ -62,17 +62,20 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    color: #fff;
-    background-color: #18bc9c;
+    color: #000;
+    /*background-color: #18bc9c;*/
+    background-color: #fff;
 }
 
 hr.star-primary {
-    border-color: #2c3e50;
+    /*border-color: #2c3e50;*/
+    border-color: #000;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
-    background-color: #fff;
+    /*color: #2c3e50;*/
+    color: #fff;
+    background-color: #000;
 }
 
 .img-centered {
@@ -82,7 +85,8 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    /*background: #18bc9c;*/
+    background: #0f000f;
 }
 
 header .container {
@@ -181,7 +185,8 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #18bc9c;
+    /*background: #18bc9c;*/
+    background: #000;
 }
 
 section.success a,
