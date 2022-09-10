@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website.
 
-## How you did it?
+## How did you do it?
 
 I did this using the theme [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) created by [Start Bootstrap](http://startbootstrap.com/).
 
